@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>Sample application 2</title>
+	</head>
+	<body>
+		<p>Creating Sample application in github</p>
+	</body>
+</html>
